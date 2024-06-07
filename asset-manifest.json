@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Celebral_Technologies_projects/static/css/main.1009a842.css",
+    "main.js": "/Celebral_Technologies_projects/static/js/main.5967ddb8.js",
+    "index.html": "/Celebral_Technologies_projects/index.html",
+    "main.1009a842.css.map": "/Celebral_Technologies_projects/static/css/main.1009a842.css.map",
+    "main.5967ddb8.js.map": "/Celebral_Technologies_projects/static/js/main.5967ddb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1009a842.css",
+    "static/js/main.5967ddb8.js"
+  ]
+}
